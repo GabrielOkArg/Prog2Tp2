@@ -1,0 +1,11 @@
+C:\Projects\CUDI\TP2\TP2.BLL\bin\Debug\TP2.BLL.dll
+C:\Projects\CUDI\TP2\TP2.BLL\bin\Debug\TP2.BLL.pdb
+C:\Projects\CUDI\TP2\TP2.BLL\bin\Debug\BE.DAL.dll
+C:\Projects\CUDI\TP2\TP2.BLL\bin\Debug\TP2.BE.dll
+C:\Projects\CUDI\TP2\TP2.BLL\bin\Debug\BE.DAL.pdb
+C:\Projects\CUDI\TP2\TP2.BLL\bin\Debug\TP2.BE.pdb
+C:\Projects\CUDI\TP2\TP2.BLL\obj\Debug\TP2.BLL.csproj.AssemblyReference.cache
+C:\Projects\CUDI\TP2\TP2.BLL\obj\Debug\TP2.BLL.csproj.CoreCompileInputs.cache
+C:\Projects\CUDI\TP2\TP2.BLL\obj\Debug\TP2.BLL.csproj.Up2Date
+C:\Projects\CUDI\TP2\TP2.BLL\obj\Debug\TP2.BLL.dll
+C:\Projects\CUDI\TP2\TP2.BLL\obj\Debug\TP2.BLL.pdb
