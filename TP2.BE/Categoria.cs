@@ -9,5 +9,7 @@ namespace TP2.BE
     public class Categoria
     {
         public string Nombre { get; set; }
+        public int MyProperty { get; set; }
+        //comentarios test
     }
 }
