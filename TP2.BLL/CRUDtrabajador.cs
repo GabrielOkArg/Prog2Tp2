@@ -43,7 +43,9 @@ namespace TP2.BLL
 
         public void Update(Trabajador entity)
         {
-           _repository.EditarTrabajador(_repository.ObtenerTrabajadores().FindIndex(x => x.Id == entity.Id), entity);
+            int  id = entity.Id;
+            //_repository.ObtenerTrabajadores().FindIndex(x => x.Id == entity.Id)
+            _repository.EditarTrabajador(id, entity);
         }
     }
 }

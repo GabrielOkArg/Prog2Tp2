@@ -1,0 +1,2 @@
+1;as;AS;as;ASa;Provincia 1;74128;Albañil;Oficial;ASas;200;500;17/10/2024 00:00:00
+2;zxc;zxc;zxc;zxc;Provincia 3;963;Albañil;Oficial;zxc;500;10;31/10/2024 00:00:00

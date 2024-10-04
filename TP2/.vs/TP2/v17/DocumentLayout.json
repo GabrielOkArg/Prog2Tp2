@@ -3,26 +3,46 @@
   "WorkspaceRootPath": "C:\\Projects\\CUDI\\TP2\\TP2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2D4229A0-8D0D-443C-B9A2-C7D2EC02550C}|TP2.csproj|c:\\projects\\cudi\\tp2\\tp2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{2D4229A0-8D0D-443C-B9A2-C7D2EC02550C}|TP2.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{42FF4A5E-7D31-4251-B57B-08DCD055A8F0}|..\\BE.DAL\\TP2.DAL.csproj|c:\\projects\\cudi\\tp2\\be.dal\\trabajadorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F16BBECF-C8E2-454F-8AA3-9F8A0E7F634F}|..\\TP2.BLL\\TP2.BLL.csproj|c:\\projects\\cudi\\tp2\\tp2.bll\\crudtrabajador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D4229A0-8D0D-443C-B9A2-C7D2EC02550C}|TP2.csproj|C:\\Projects\\CUDI\\TP2\\TP2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D4229A0-8D0D-443C-B9A2-C7D2EC02550C}|TP2.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D4229A0-8D0D-443C-B9A2-C7D2EC02550C}|TP2.csproj|C:\\Projects\\CUDI\\TP2\\TP2\\altatrabajador.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D4229A0-8D0D-443C-B9A2-C7D2EC02550C}|TP2.csproj|solutionrelative:altatrabajador.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2D4229A0-8D0D-443C-B9A2-C7D2EC02550C}|TP2.csproj|c:\\projects\\cudi\\tp2\\tp2\\cargarhorassueldo.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2D4229A0-8D0D-443C-B9A2-C7D2EC02550C}|TP2.csproj|solutionrelative:cargarhorassueldo.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2D4229A0-8D0D-443C-B9A2-C7D2EC02550C}|TP2.csproj|c:\\projects\\cudi\\tp2\\tp2\\cargarhorassueldo.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{2D4229A0-8D0D-443C-B9A2-C7D2EC02550C}|TP2.csproj|solutionrelative:cargarhorassueldo.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{F16BBECF-C8E2-454F-8AA3-9F8A0E7F634F}|..\\TP2.BLL\\TP2.BLL.csproj|c:\\projects\\cudi\\tp2\\tp2.bll\\calcularsueldo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F16BBECF-C8E2-454F-8AA3-9F8A0E7F634F}|..\\TP2.BLL\\TP2.BLL.csproj|c:\\projects\\cudi\\tp2\\tp2.bll\\interfaces\\icrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3E79F69-97A6-4E33-9EC7-006118F0CE5D}|..\\TP2.BE\\TP2.BE.csproj|c:\\projects\\cudi\\tp2\\tp2.be\\trabajador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D4229A0-8D0D-443C-B9A2-C7D2EC02550C}|TP2.csproj|C:\\Projects\\CUDI\\TP2\\TP2\\altatrabajador.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2D4229A0-8D0D-443C-B9A2-C7D2EC02550C}|TP2.csproj|solutionrelative:altatrabajador.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{42FF4A5E-7D31-4251-B57B-08DCD055A8F0}|..\\BE.DAL\\BE.DAL.csproj|c:\\projects\\cudi\\tp2\\be.dal\\trabajadorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F16BBECF-C8E2-454F-8AA3-9F8A0E7F634F}|..\\TP2.BLL\\TP2.BLL.csproj|c:\\projects\\cudi\\tp2\\tp2.bll\\crudtrabajador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2D4229A0-8D0D-443C-B9A2-C7D2EC02550C}|TP2.csproj|C:\\Projects\\CUDI\\TP2\\TP2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2D4229A0-8D0D-443C-B9A2-C7D2EC02550C}|TP2.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2D4229A0-8D0D-443C-B9A2-C7D2EC02550C}|TP2.csproj|c:\\projects\\cudi\\tp2\\tp2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2D4229A0-8D0D-443C-B9A2-C7D2EC02550C}|TP2.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2D4229A0-8D0D-443C-B9A2-C7D2EC02550C}|TP2.csproj|C:\\Projects\\CUDI\\TP2\\TP2\\cargarhorassueldo.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2D4229A0-8D0D-443C-B9A2-C7D2EC02550C}|TP2.csproj|solutionrelative:cargarhorassueldo.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -32,7 +52,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -40,57 +60,141 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CargarHorasSueldo.xaml",
-              "DocumentMoniker": "C:\\Projects\\CUDI\\TP2\\TP2\\CargarHorasSueldo.xaml",
-              "RelativeDocumentMoniker": "CargarHorasSueldo.xaml",
-              "ToolTip": "C:\\Projects\\CUDI\\TP2\\TP2\\CargarHorasSueldo.xaml",
-              "RelativeToolTip": "CargarHorasSueldo.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-01T19:53:47.379Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "CargarHorasSueldo.xaml.cs",
-              "DocumentMoniker": "C:\\Projects\\CUDI\\TP2\\TP2\\CargarHorasSueldo.xaml.cs",
-              "RelativeDocumentMoniker": "CargarHorasSueldo.xaml.cs",
-              "ToolTip": "C:\\Projects\\CUDI\\TP2\\TP2\\CargarHorasSueldo.xaml.cs",
-              "RelativeToolTip": "CargarHorasSueldo.xaml.cs",
-              "ViewState": "AQIAADAAAAAAAAAAAADgv0AAAABCAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T19:51:23.511Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Projects\\CUDI\\TP2\\TP2\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "MainWindow.xaml",
-              "ToolTip": "C:\\Projects\\CUDI\\TP2\\TP2\\MainWindow.xaml",
-              "RelativeToolTip": "MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-01T19:40:52.37Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "CRUDtrabajador.cs",
               "DocumentMoniker": "C:\\Projects\\CUDI\\TP2\\TP2.BLL\\CRUDtrabajador.cs",
               "RelativeDocumentMoniker": "..\\TP2.BLL\\CRUDtrabajador.cs",
               "ToolTip": "C:\\Projects\\CUDI\\TP2\\TP2.BLL\\CRUDtrabajador.cs",
               "RelativeToolTip": "..\\TP2.BLL\\CRUDtrabajador.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAA5wC0AAABqAAAA",
+              "ViewState": "AQIAABIAAAAAAAAAAAA5wC4AAABRAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-01T17:36:16.988Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Icrud.cs",
+              "DocumentMoniker": "C:\\Projects\\CUDI\\TP2\\TP2.BLL\\interfaces\\Icrud.cs",
+              "RelativeDocumentMoniker": "..\\TP2.BLL\\interfaces\\Icrud.cs",
+              "ToolTip": "C:\\Projects\\CUDI\\TP2\\TP2.BLL\\interfaces\\Icrud.cs",
+              "RelativeToolTip": "..\\TP2.BLL\\interfaces\\Icrud.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T23:50:14.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Projects\\CUDI\\TP2\\TP2\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Projects\\CUDI\\TP2\\TP2\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAArwCgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T15:12:21.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CargarHorasSueldo.xaml.cs",
+              "DocumentMoniker": "C:\\Projects\\CUDI\\TP2\\TP2\\CargarHorasSueldo.xaml.cs",
+              "RelativeDocumentMoniker": "CargarHorasSueldo.xaml.cs",
+              "ToolTip": "C:\\Projects\\CUDI\\TP2\\TP2\\CargarHorasSueldo.xaml.cs",
+              "RelativeToolTip": "CargarHorasSueldo.xaml.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAgwF4AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T19:51:23.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "AltaTrabajador.xaml.cs",
+              "DocumentMoniker": "C:\\Projects\\CUDI\\TP2\\TP2\\AltaTrabajador.xaml.cs",
+              "RelativeDocumentMoniker": "AltaTrabajador.xaml.cs",
+              "ToolTip": "C:\\Projects\\CUDI\\TP2\\TP2\\AltaTrabajador.xaml.cs",
+              "RelativeToolTip": "AltaTrabajador.xaml.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAwwCsAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T15:21:33.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TrabajadorRepository.cs",
+              "DocumentMoniker": "C:\\Projects\\CUDI\\TP2\\BE.DAL\\TrabajadorRepository.cs",
+              "RelativeDocumentMoniker": "..\\BE.DAL\\TrabajadorRepository.cs",
+              "ToolTip": "C:\\Projects\\CUDI\\TP2\\BE.DAL\\TrabajadorRepository.cs",
+              "RelativeToolTip": "..\\BE.DAL\\TrabajadorRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T23:14:37.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Trabajador.cs",
+              "DocumentMoniker": "C:\\Projects\\CUDI\\TP2\\TP2.BE\\Trabajador.cs",
+              "RelativeDocumentMoniker": "..\\TP2.BE\\Trabajador.cs",
+              "ToolTip": "C:\\Projects\\CUDI\\TP2\\TP2.BE\\Trabajador.cs",
+              "RelativeToolTip": "..\\TP2.BE\\Trabajador.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAA2wBMAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T23:34:18.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CalcularSueldo.cs",
+              "DocumentMoniker": "C:\\Projects\\CUDI\\TP2\\TP2.BLL\\CalcularSueldo.cs",
+              "RelativeDocumentMoniker": "..\\TP2.BLL\\CalcularSueldo.cs",
+              "ToolTip": "C:\\Projects\\CUDI\\TP2\\TP2.BLL\\CalcularSueldo.cs",
+              "RelativeToolTip": "..\\TP2.BLL\\CalcularSueldo.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T23:32:11.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AltaTrabajador.xaml",
+              "DocumentMoniker": "C:\\Projects\\CUDI\\TP2\\TP2\\AltaTrabajador.xaml",
+              "RelativeDocumentMoniker": "AltaTrabajador.xaml",
+              "ToolTip": "C:\\Projects\\CUDI\\TP2\\TP2\\AltaTrabajador.xaml",
+              "RelativeToolTip": "AltaTrabajador.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-02T15:21:36.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CargarHorasSueldo.xaml",
+              "DocumentMoniker": "C:\\Projects\\CUDI\\TP2\\TP2\\CargarHorasSueldo.xaml",
+              "RelativeDocumentMoniker": "CargarHorasSueldo.xaml",
+              "ToolTip": "C:\\Projects\\CUDI\\TP2\\TP2\\CargarHorasSueldo.xaml",
+              "RelativeToolTip": "CargarHorasSueldo.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-01T19:53:47.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Projects\\CUDI\\TP2\\TP2\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Projects\\CUDI\\TP2\\TP2\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-01T19:40:52.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "TrabajadorRepository.cs",
               "DocumentMoniker": "C:\\Projects\\CUDI\\TP2\\BE.DAL\\TrabajadorRepository.cs",
               "RelativeDocumentMoniker": "..\\BE.DAL\\TrabajadorRepository.cs",
@@ -98,21 +202,7 @@
               "RelativeToolTip": "..\\BE.DAL\\TrabajadorRepository.cs",
               "ViewState": "AQIAABMAAAAAAAAAAAAgwDIAAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T15:13:51.861Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Projects\\CUDI\\TP2\\TP2\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
-              "ToolTip": "C:\\Projects\\CUDI\\TP2\\TP2\\MainWindow.xaml.cs",
-              "RelativeToolTip": "MainWindow.xaml.cs",
-              "ViewState": "AQIAABoAAAAAAAAAAADgvygAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T15:12:21.127Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-01T15:13:51.861Z"
             }
           ]
         }

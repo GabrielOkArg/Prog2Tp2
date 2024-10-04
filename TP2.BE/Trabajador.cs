@@ -16,5 +16,7 @@ namespace TP2.BE
         public decimal ValorHora { get; set; } = 0.0m;
         public decimal Sueldo { get; set; } = 0.0m;
         public DateTime FechaIngreso { get; set; }
+
+       
     }
 }

@@ -69,7 +69,7 @@
             <TextBox x:Name="txtApellido" Grid.Row="1" Grid.Column="1" />
 
             <TextBlock Text="Domicilio:" Grid.Row="2" Grid.Column="0" VerticalAlignment="Center"/>
-            <TextBox x:Name="txtDomicilio" Grid.Row="2" Grid.Column="1" />
+            <TextBox x:Name="txtDomicilio" Grid.Row="2" Grid.Column="1" MaxLength="50" />
 
             <TextBlock Text="Localidad:" Grid.Row="3" Grid.Column="0" VerticalAlignment="Center"/>
             <TextBox x:Name="txtLocalidad" Grid.Row="3" Grid.Column="1" />

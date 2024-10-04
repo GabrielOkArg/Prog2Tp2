@@ -24,3 +24,7 @@ C:\Projects\CUDI\TP2\TP2\obj\Debug\TP2.csproj.CoreCompileInputs.cache
 C:\Projects\CUDI\TP2\TP2\obj\Debug\TP2.csproj.Up2Date
 C:\Projects\CUDI\TP2\TP2\obj\Debug\TP2.exe
 C:\Projects\CUDI\TP2\TP2\obj\Debug\TP2.pdb
+C:\Projects\CUDI\TP2\TP2\bin\Debug\TP2.exe.manifest
+C:\Projects\CUDI\TP2\TP2\bin\Debug\TP2.application
+C:\Projects\CUDI\TP2\TP2\obj\Debug\TP2.exe.manifest
+C:\Projects\CUDI\TP2\TP2\obj\Debug\TP2.application
