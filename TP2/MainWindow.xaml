@@ -6,8 +6,22 @@
       xmlns:local="clr-namespace:TP2"
     mc:Ignorable="d"
     Title="MainWindow" Height="450" MinWidth="800" Width="auto">
-    <Grid Margin="20">
-        <Button Content="Alta de Trabajador" 
+    
+    
+    <Grid Margin="0">
+
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                <GradientStop Color="Black"/>
+                <GradientStop Color="Red" Offset="1"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+
+
+        <Label Content="REGISTRO" HorizontalAlignment="Center" Margin="0,25,0,0" VerticalAlignment="Top" Foreground="White" FontSize="24" FontWeight="Bold"/>
+
+
+        <!--<Button Content="Alta de Trabajador" 
             Width="150" 
             Height="40" 
             HorizontalAlignment="Left" 
@@ -16,19 +30,41 @@
             Background="#4CAF50" 
             Foreground="White" 
             FontSize="14" 
-            Cursor="Hand" />
-        <Button Content="Cargar horas" 
-     Width="150" 
-     Height="40" 
-   
-     VerticalAlignment="Top" 
-    
-     Background="#4CAF50" 
-     Foreground="White" 
-     FontSize="14" 
-     Cursor="Hand" Margin="176,0,434,0" Click="Button_Click" />
+            Cursor="Hand" />-->
 
-        <DataGrid x:Name="trabajadoresDataGrid" 
+        <Button Content="Alta de Trabajador" 
+            Width="160" 
+            Height="50" 
+            HorizontalAlignment="Left" 
+            VerticalAlignment="Top" 
+            Click="AltaTrabajador_Click" 
+            Background="#4CAF50" 
+            Foreground="White" 
+            FontSize="16" 
+            Cursor="Hand" Margin="110,110,0,0" FontWeight="Bold" />
+
+
+        <!--<Button Content="Cargar horas" 
+             Width="150" 
+             Height="40" 
+   
+             VerticalAlignment="Top" 
+    
+             Background="#4CAF50" 
+             Foreground="White" 
+             FontSize="14" 
+             Cursor="Hand" Margin="176,0,434,0" Click="Button_Click" />-->
+
+        <Button Content="Cargar horas" 
+             Width="160" 
+             Height="50"    
+             VerticalAlignment="Top"     
+             Background="#4CAF50" 
+             Foreground="White" 
+             FontSize="16" 
+             Cursor="Hand" Margin="540,110,110,0" Click="Button_Click" FontWeight="Bold" />
+
+        <!--<DataGrid x:Name="trabajadoresDataGrid" 
               AutoGenerateColumns="False" 
               CanUserAddRows="False" 
               CanUserDeleteRows="True" 
@@ -48,6 +84,29 @@
                 <DataGridTextColumn Header="Sueldo" Binding="{Binding Sueldo}" />
                 <DataGridTextColumn Header="Fecha Ingreso" Binding="{Binding FechaIngreso}" />
             </DataGrid.Columns>
+        </DataGrid>-->
+
+        <DataGrid x:Name="trabajadoresDataGrid" 
+      AutoGenerateColumns="False" 
+      CanUserAddRows="False" 
+      CanUserDeleteRows="True" 
+      Margin="10,200,10,10">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Apellido" Binding="{Binding Apellido}" />
+                <DataGridTextColumn Header="Nombre" Binding="{Binding Nombre}" />
+                <DataGridTextColumn Header="Domicilio" Binding="{Binding Domicilio}" />
+                <DataGridTextColumn Header="Localidad" Binding="{Binding Localidad}" />
+                <DataGridTextColumn Header="Provincia" Binding="{Binding Provincia}" />
+                <DataGridTextColumn Header="Celular" Binding="{Binding NroCelular}" />
+                <DataGridTextColumn Header="Categoría" Binding="{Binding Categoria.Nombre}" />
+                <DataGridTextColumn Header="Rango" Binding="{Binding Rango.Nombre}" />
+                <DataGridTextColumn Header="Área Trabajo" Binding="{Binding AreaTrabajo}" />
+                <DataGridTextColumn Header="Horas" Binding="{Binding CantidadHoras}" />
+                <DataGridTextColumn Header="Valor Hora" Binding="{Binding ValorHora}" />
+                <DataGridTextColumn Header="Sueldo" Binding="{Binding Sueldo}" />
+                <DataGridTextColumn Header="Fecha Ingreso" Binding="{Binding FechaIngreso}" />
+            </DataGrid.Columns>
         </DataGrid>
+        
     </Grid>
 </Window>
