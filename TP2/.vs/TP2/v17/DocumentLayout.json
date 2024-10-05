@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{2D4229A0-8D0D-443C-B9A2-C7D2EC02550C}|TP2.csproj|solutionrelative:cargarhorassueldo.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{2D4229A0-8D0D-443C-B9A2-C7D2EC02550C}|TP2.csproj|C:\\Users\\PC\\Desktop\\tp22\\Prog2Tp2\\TP2\\cargarhorassueldo.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D4229A0-8D0D-443C-B9A2-C7D2EC02550C}|TP2.csproj|solutionrelative:cargarhorassueldo.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2D4229A0-8D0D-443C-B9A2-C7D2EC02550C}|TP2.csproj|C:\\Users\\PC\\Desktop\\tp22\\Prog2Tp2\\TP2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{2D4229A0-8D0D-443C-B9A2-C7D2EC02550C}|TP2.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
@@ -22,10 +26,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{2D4229A0-8D0D-443C-B9A2-C7D2EC02550C}|TP2.csproj|C:\\Users\\PC\\Desktop\\tp22\\Prog2Tp2\\TP2\\altatrabajador.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{2D4229A0-8D0D-443C-B9A2-C7D2EC02550C}|TP2.csproj|solutionrelative:altatrabajador.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2D4229A0-8D0D-443C-B9A2-C7D2EC02550C}|TP2.csproj|C:\\Users\\PC\\Desktop\\tp22\\Prog2Tp2\\TP2\\cargarhorassueldo.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2D4229A0-8D0D-443C-B9A2-C7D2EC02550C}|TP2.csproj|solutionrelative:cargarhorassueldo.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:1:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\CUDI\\TP2\\BE.DAL\\TrabajadorRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -62,7 +62,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "CRUDtrabajador.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\tp22\\Prog2Tp2\\TP2.BLL\\CRUDtrabajador.cs",
               "RelativeDocumentMoniker": "..\\TP2.BLL\\CRUDtrabajador.cs",
@@ -74,7 +74,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "TrabajadorRepository.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\tp22\\Prog2Tp2\\BE.DAL\\TrabajadorRepository.cs",
               "RelativeDocumentMoniker": "..\\BE.DAL\\TrabajadorRepository.cs",
@@ -86,7 +86,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "CRUDtrabajador.cs",
               "DocumentMoniker": "C:\\Projects\\CUDI\\TP2\\TP2.BLL\\CRUDtrabajador.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Projects\\CUDI\\TP2\\TP2.BLL\\CRUDtrabajador.cs",
@@ -121,15 +121,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "CargarHorasSueldo.xaml.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\tp22\\Prog2Tp2\\TP2\\CargarHorasSueldo.xaml.cs",
               "RelativeDocumentMoniker": "CargarHorasSueldo.xaml.cs",
               "ToolTip": "C:\\Users\\PC\\Desktop\\tp22\\Prog2Tp2\\TP2\\CargarHorasSueldo.xaml.cs",
               "RelativeToolTip": "CargarHorasSueldo.xaml.cs",
-              "ViewState": "AgIAAEMAAAAAAAAAAAAIwE4AAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAuwGkAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T19:51:23.511Z"
+              "WhenOpened": "2024-10-01T19:51:23.511Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -180,7 +181,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "AltaTrabajador.xaml",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\tp22\\Prog2Tp2\\TP2\\AltaTrabajador.xaml",
               "RelativeDocumentMoniker": "AltaTrabajador.xaml",
@@ -203,7 +204,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\tp22\\Prog2Tp2\\TP2\\MainWindow.xaml",
               "RelativeDocumentMoniker": "MainWindow.xaml",

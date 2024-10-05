@@ -76,6 +76,11 @@ namespace TP2
 
         private void CantidadHorasTextBox_TextChanged(object sender, TextChangedEventArgs e)
         {
+            int value = 0 ;
+            if(!int.TryParse(CantidadHorasTextBox.Text, out value))
+            {
+                CantidadHorasTextBox.Text = "0";
+            }
             _trabajador.CantidadHoras = int.Parse(CantidadHorasTextBox.Text);
             SueldoTextBox.Text = CalcularSueldo.Calcular(_trabajador).ToString();
 
@@ -83,6 +88,11 @@ namespace TP2
 
         private void ValorHoraTextBox_TextChanged(object sender, TextChangedEventArgs e)
         {
+            decimal value = 0;
+            if(!decimal.TryParse(ValorHoraTextBox.Text, out value))
+            {
+                ValorHoraTextBox.Text = "0";
+            }
             _trabajador.ValorHora = decimal.Parse(ValorHoraTextBox.Text);
             SueldoTextBox.Text = CalcularSueldo.Calcular(_trabajador).ToString();
         }

@@ -63,29 +63,29 @@
 
         <TextBlock Text="Área de Trabajo:" Grid.Row="8" Grid.Column="0" VerticalAlignment="Center" Margin="30,0,0,0" Foreground="Yellow"   />
         <TextBlock x:Name="AreaTrabajoTextBlock" Grid.Row="8" Grid.Column="1" VerticalAlignment="Center" Margin="0,0,300,0" Foreground="#FFFFFEFE" />
-       
+
 
         <!-- Input para CantidadHoras -->
         <TextBlock Text="Cantidad de Horas:" Grid.Row="9" Grid.Column="0" VerticalAlignment="Center" Margin="30,0,0,0" Foreground="Yellow"   />
         <TextBox x:Name="CantidadHorasTextBox" Grid.Row="9" Grid.Column="1" Width="100" TextChanged="CantidadHorasTextBox_TextChanged" />
-        
+
 
         <!-- Input para ValorHora -->
         <TextBlock Text="Valor por Hora:" Grid.Row="10" Grid.Column="0" VerticalAlignment="Center" Margin="30,0,0,0" Foreground="Yellow"   />
         <TextBox x:Name="ValorHoraTextBox" Grid.Row="10" Grid.Column="1" Width="100" TextChanged="ValorHoraTextBox_TextChanged" />
-        
+
 
         <!-- Input para Sueldo -->
         <TextBlock Text="Sueldo Total:" Grid.Row="11" Grid.Column="0" VerticalAlignment="Center" Margin="30,0,0,0" Foreground="Yellow" />
         <TextBox x:Name="SueldoTextBox" Grid.Row="11" Grid.Column="1" Width="100" IsReadOnly="True" />
-        
+
 
         <!-- Fecha de Ingreso -->
         <TextBlock Text="Fecha de Ingreso:" Grid.Row="12" Grid.Column="0" VerticalAlignment="Center"  Margin="30,0,0,0" Foreground="Yellow" />
         <TextBlock x:Name="FechaIngresoTextBlock" Grid.Row="12" Grid.Column="1" VerticalAlignment="Center" Margin="0,0,300,0" Foreground="#FFFFFEFE" />
-        
+
 
         <!-- Botón para guardar -->
-        <Button Content="Guardar" Grid.Row="13" Grid.Column="1" Width="100" HorizontalAlignment="Right" VerticalAlignment="Bottom" Margin="0,20,20,0" Click="Guardar_Click"/>
+        <Button Content="Guardar" Grid.Row="12" Grid.Column="1" Width="100" HorizontalAlignment="Right" VerticalAlignment="Bottom" Margin="0,0,25,40" Click="Guardar_Click" RenderTransformOrigin="0.44,-1.004"/>
     </Grid>
 </Window>
