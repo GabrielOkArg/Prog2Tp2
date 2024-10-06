@@ -38,7 +38,15 @@ namespace TP2.BLL
 
         public void Insert(Trabajador entity)
         {
+            this.TrabajadorValidation(entity);
             _repository.AgregarTrabajador(entity);
+        }
+
+        private void TrabajadorValidation(Trabajador entity)
+        {
+
+            if (DateTime.Compare(entity.FechaIngreso, DateTime.Now) > 0)
+                throw new Exception("Fecha de ingreso invalida");
         }
 
         public void Update(Trabajador entity)
