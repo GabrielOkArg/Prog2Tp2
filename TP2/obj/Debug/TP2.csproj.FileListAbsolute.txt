@@ -28,3 +28,33 @@ C:\Projects\CUDI\TP2\TP2\bin\Debug\TP2.exe.manifest
 C:\Projects\CUDI\TP2\TP2\bin\Debug\TP2.application
 C:\Projects\CUDI\TP2\TP2\obj\Debug\TP2.exe.manifest
 C:\Projects\CUDI\TP2\TP2\obj\Debug\TP2.application
+C:\TP 2 prog\Prog2Tp2\TP2\bin\Debug\TP2.exe.config
+C:\TP 2 prog\Prog2Tp2\TP2\bin\Debug\TP2.exe.manifest
+C:\TP 2 prog\Prog2Tp2\TP2\bin\Debug\TP2.application
+C:\TP 2 prog\Prog2Tp2\TP2\bin\Debug\TP2.exe
+C:\TP 2 prog\Prog2Tp2\TP2\bin\Debug\TP2.pdb
+C:\TP 2 prog\Prog2Tp2\TP2\bin\Debug\TP2.BE.dll
+C:\TP 2 prog\Prog2Tp2\TP2\bin\Debug\TP2.BLL.dll
+C:\TP 2 prog\Prog2Tp2\TP2\bin\Debug\BE.DAL.dll
+C:\TP 2 prog\Prog2Tp2\TP2\bin\Debug\TP2.BE.pdb
+C:\TP 2 prog\Prog2Tp2\TP2\bin\Debug\TP2.BLL.pdb
+C:\TP 2 prog\Prog2Tp2\TP2\bin\Debug\BE.DAL.pdb
+C:\TP 2 prog\Prog2Tp2\TP2\obj\Debug\TP2.csproj.AssemblyReference.cache
+C:\TP 2 prog\Prog2Tp2\TP2\obj\Debug\CargarHorasSueldo.baml
+C:\TP 2 prog\Prog2Tp2\TP2\obj\Debug\AltaTrabajador.g.cs
+C:\TP 2 prog\Prog2Tp2\TP2\obj\Debug\CargarHorasSueldo.g.cs
+C:\TP 2 prog\Prog2Tp2\TP2\obj\Debug\MainWindow.g.cs
+C:\TP 2 prog\Prog2Tp2\TP2\obj\Debug\App.g.cs
+C:\TP 2 prog\Prog2Tp2\TP2\obj\Debug\TP2_MarkupCompile.cache
+C:\TP 2 prog\Prog2Tp2\TP2\obj\Debug\TP2_MarkupCompile.lref
+C:\TP 2 prog\Prog2Tp2\TP2\obj\Debug\AltaTrabajador.baml
+C:\TP 2 prog\Prog2Tp2\TP2\obj\Debug\MainWindow.baml
+C:\TP 2 prog\Prog2Tp2\TP2\obj\Debug\TP2.g.resources
+C:\TP 2 prog\Prog2Tp2\TP2\obj\Debug\TP2.Properties.Resources.resources
+C:\TP 2 prog\Prog2Tp2\TP2\obj\Debug\TP2.csproj.GenerateResource.cache
+C:\TP 2 prog\Prog2Tp2\TP2\obj\Debug\TP2.csproj.CoreCompileInputs.cache
+C:\TP 2 prog\Prog2Tp2\TP2\obj\Debug\TP2.exe.manifest
+C:\TP 2 prog\Prog2Tp2\TP2\obj\Debug\TP2.application
+C:\TP 2 prog\Prog2Tp2\TP2\obj\Debug\TP2.csproj.Up2Date
+C:\TP 2 prog\Prog2Tp2\TP2\obj\Debug\TP2.exe
+C:\TP 2 prog\Prog2Tp2\TP2\obj\Debug\TP2.pdb

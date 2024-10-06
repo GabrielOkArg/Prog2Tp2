@@ -52,13 +52,13 @@ namespace TP2
                 trabajador.AreaTrabajo = txtAreaTrabajo.Text;
                 trabajador.FechaIngreso = Convert.ToDateTime(dpFechaIngreso.Text);
                 crud.Insert(trabajador);
+
                 MessageBox.Show("Trabajador Agregado con exito");
                 CallMainWindows();
 
             }
             catch (Exception ex)
             {
-
                 MessageBox.Show("Ocurrio un error:" + ex.Message);
             }
             finally

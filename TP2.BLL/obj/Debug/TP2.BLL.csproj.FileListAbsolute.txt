@@ -9,3 +9,14 @@ C:\Projects\CUDI\TP2\TP2.BLL\obj\Debug\TP2.BLL.csproj.CoreCompileInputs.cache
 C:\Projects\CUDI\TP2\TP2.BLL\obj\Debug\TP2.BLL.csproj.Up2Date
 C:\Projects\CUDI\TP2\TP2.BLL\obj\Debug\TP2.BLL.dll
 C:\Projects\CUDI\TP2\TP2.BLL\obj\Debug\TP2.BLL.pdb
+C:\TP 2 prog\Prog2Tp2\TP2.BLL\bin\Debug\TP2.BLL.dll
+C:\TP 2 prog\Prog2Tp2\TP2.BLL\bin\Debug\TP2.BLL.pdb
+C:\TP 2 prog\Prog2Tp2\TP2.BLL\bin\Debug\BE.DAL.dll
+C:\TP 2 prog\Prog2Tp2\TP2.BLL\bin\Debug\TP2.BE.dll
+C:\TP 2 prog\Prog2Tp2\TP2.BLL\bin\Debug\BE.DAL.pdb
+C:\TP 2 prog\Prog2Tp2\TP2.BLL\bin\Debug\TP2.BE.pdb
+C:\TP 2 prog\Prog2Tp2\TP2.BLL\obj\Debug\TP2.BLL.csproj.AssemblyReference.cache
+C:\TP 2 prog\Prog2Tp2\TP2.BLL\obj\Debug\TP2.BLL.csproj.CoreCompileInputs.cache
+C:\TP 2 prog\Prog2Tp2\TP2.BLL\obj\Debug\TP2.BLL.csproj.Up2Date
+C:\TP 2 prog\Prog2Tp2\TP2.BLL\obj\Debug\TP2.BLL.dll
+C:\TP 2 prog\Prog2Tp2\TP2.BLL\obj\Debug\TP2.BLL.pdb

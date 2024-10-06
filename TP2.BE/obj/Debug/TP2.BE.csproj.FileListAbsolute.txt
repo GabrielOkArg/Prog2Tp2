@@ -4,3 +4,9 @@ C:\Projects\CUDI\TP2\TP2.BE\obj\Debug\TP2.BE.csproj.AssemblyReference.cache
 C:\Projects\CUDI\TP2\TP2.BE\obj\Debug\TP2.BE.csproj.CoreCompileInputs.cache
 C:\Projects\CUDI\TP2\TP2.BE\obj\Debug\TP2.BE.dll
 C:\Projects\CUDI\TP2\TP2.BE\obj\Debug\TP2.BE.pdb
+C:\TP 2 prog\Prog2Tp2\TP2.BE\bin\Debug\TP2.BE.dll
+C:\TP 2 prog\Prog2Tp2\TP2.BE\bin\Debug\TP2.BE.pdb
+C:\TP 2 prog\Prog2Tp2\TP2.BE\obj\Debug\TP2.BE.csproj.AssemblyReference.cache
+C:\TP 2 prog\Prog2Tp2\TP2.BE\obj\Debug\TP2.BE.csproj.CoreCompileInputs.cache
+C:\TP 2 prog\Prog2Tp2\TP2.BE\obj\Debug\TP2.BE.dll
+C:\TP 2 prog\Prog2Tp2\TP2.BE\obj\Debug\TP2.BE.pdb
