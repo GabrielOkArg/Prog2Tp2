@@ -49,19 +49,19 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>Xg5RzwVowH7M/bcUR5CdmeKRlUeJXOO7UWcI0xWkJbg=</dsig:DigestValue>
+        <dsig:DigestValue>BAmUuuYqRuAbhMXYj1GXuVI6i1ihzMbkoSR+64O14MA=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="TP2.exe" size="27096">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="TP2.exe" size="27608">
       <assemblyIdentity name="TP2" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>DsckSNbzQJMBEmns23B3k+QtU9HMXLIlZnzqQQBrj3o=</dsig:DigestValue>
+        <dsig:DigestValue>eer+6ldKxQbZHHi3IDduWgGWg5XGr3Sb3YwrDUTkYp0=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -85,7 +85,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>hfICIaoBpj6+LwBC6CwLiHXAgOpWB7Vl/ybmy9IdkEc=</dsig:DigestValue>
+        <dsig:DigestValue>AwiokV84R3hFbVG1mq3HYWXQc37uKK2kRYwk47WPCNU=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

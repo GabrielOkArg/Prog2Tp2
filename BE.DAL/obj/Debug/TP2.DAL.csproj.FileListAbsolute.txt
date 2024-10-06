@@ -16,3 +16,12 @@ C:\Users\PC\Desktop\tp22\Prog2Tp2\BE.DAL\obj\Debug\TP2.DAL.csproj.CoreCompileInp
 C:\Users\PC\Desktop\tp22\Prog2Tp2\BE.DAL\obj\Debug\TP2.DAL.csproj.Up2Date
 C:\Users\PC\Desktop\tp22\Prog2Tp2\BE.DAL\obj\Debug\BE.DAL.dll
 C:\Users\PC\Desktop\tp22\Prog2Tp2\BE.DAL\obj\Debug\BE.DAL.pdb
+C:\Projects\CUDI\TP2Final\BE.DAL\bin\Debug\BE.DAL.dll
+C:\Projects\CUDI\TP2Final\BE.DAL\bin\Debug\BE.DAL.pdb
+C:\Projects\CUDI\TP2Final\BE.DAL\bin\Debug\TP2.BE.dll
+C:\Projects\CUDI\TP2Final\BE.DAL\bin\Debug\TP2.BE.pdb
+C:\Projects\CUDI\TP2Final\BE.DAL\obj\Debug\TP2.DAL.csproj.AssemblyReference.cache
+C:\Projects\CUDI\TP2Final\BE.DAL\obj\Debug\TP2.DAL.csproj.CoreCompileInputs.cache
+C:\Projects\CUDI\TP2Final\BE.DAL\obj\Debug\TP2.DAL.csproj.Up2Date
+C:\Projects\CUDI\TP2Final\BE.DAL\obj\Debug\BE.DAL.dll
+C:\Projects\CUDI\TP2Final\BE.DAL\obj\Debug\BE.DAL.pdb
