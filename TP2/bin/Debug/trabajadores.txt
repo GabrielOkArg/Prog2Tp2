@@ -2,4 +2,6 @@
 2;zxc;zxc;zxc;zxc;Provincia 3;963;Albañil;Oficial;zxc;500;10;31/10/2024 00:00:00
 3;vdsa;Juan;sdafgsdfg;gonzalez;Provincia 1;12345;Arquitecto;Capataz;asdfghjjkl;10;220,50;16/10/2024 00:00:00
 4;vdsa;Juan;senguek;gonzalez catan;Provincia 1;123456;Maestro de Obra;Capataz;casa;1;310,0;1/10/2024 00:00:00
-5;qwe;qwe;qweqwe;qwe;Provincia 2;123;Maestro de Obra;Peon;qwe;23;22;18/10/2024 00:00:00
+5;qwe;qwe;qweqwe;qwe;Provincia 2;123;Maestro de Obra;Peon;qwe;23;900;18/10/2024 00:00:00
+6;fgh;gfhfgh;fgh;fgh;Provincia 2;1234123;Carpintero;Peon;lkjh;0;0,0;29/9/2024 00:00:00
+7;cnb;bmcvb;cvn;cvbn;Provincia 2;4324;Albañil;Oficial;fg;0;0,0;19/5/2024 00:00:00

@@ -49,7 +49,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>BAmUuuYqRuAbhMXYj1GXuVI6i1ihzMbkoSR+64O14MA=</dsig:DigestValue>
+        <dsig:DigestValue>BjRrW/Jf2nn2xMyaUgbZtjHzEVsQsbkRjclLJLY12BY=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -61,7 +61,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>eer+6ldKxQbZHHi3IDduWgGWg5XGr3Sb3YwrDUTkYp0=</dsig:DigestValue>
+        <dsig:DigestValue>+dNQ1h9JXIn22ekqmeefIeeZKuPlMU5v1Ks/eK8s2Mk=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -78,14 +78,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="TP2.BLL.dll" size="5120">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="TP2.BLL.dll" size="5632">
       <assemblyIdentity name="TP2.BLL" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>AwiokV84R3hFbVG1mq3HYWXQc37uKK2kRYwk47WPCNU=</dsig:DigestValue>
+        <dsig:DigestValue>qZ5gjq0R/A5feS63j+lxwEAkhVZxMCwA5auij+EKewU=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
